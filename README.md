@@ -31,12 +31,16 @@
 <h3> Back End </h3>
 <section>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=Node.js&logoColor=white" />
 </section>
 
 <h3> Testing </h3>
 <section>
   <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-20232A?style=for-the-badge&logo=mocha&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Chai-20232A?style=for-the-badge&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sinon-5849be?style=for-the-badge&logo=Sinon&logoColor=white"/>
 </section>
 
 <h3> Tools </h3>
