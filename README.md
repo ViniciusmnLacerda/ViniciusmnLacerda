@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p> I'm a Jr Fullstack Developer with an emphasis on the Front End </p>
+  <p> I'm a Jr Fullstack Developer.</p>
   <p> 📧 viniciuslmn@gmail.com </p>
 </div>
 
