@@ -31,7 +31,8 @@
 <h3> Back End </h3>
 <section>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img src="https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
 </section>
 
 <h3> Testing </h3>
