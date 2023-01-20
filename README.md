@@ -30,9 +30,13 @@
 
 <h3> Back End </h3>
 <section>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2CA5E0?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=mongodbb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-2CA5E0?style=for-the-badge&logo=sequelizer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=61DAFB" />
 </section>
 
 <h3> Testing </h3>
